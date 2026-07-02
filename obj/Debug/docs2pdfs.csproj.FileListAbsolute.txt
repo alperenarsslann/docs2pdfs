@@ -1,7 +1,0 @@
-C:\Workspaces\VisualStudio\projects\docs2pdfs\bin\Debug\docs2pdfs.exe.config
-C:\Workspaces\VisualStudio\projects\docs2pdfs\bin\Debug\docs2pdfs.exe
-C:\Workspaces\VisualStudio\projects\docs2pdfs\bin\Debug\docs2pdfs.pdb
-C:\Workspaces\VisualStudio\projects\docs2pdfs\obj\Debug\docs2pdfs.csproj.AssemblyReference.cache
-C:\Workspaces\VisualStudio\projects\docs2pdfs\obj\Debug\docs2pdfs.csproj.CoreCompileInputs.cache
-C:\Workspaces\VisualStudio\projects\docs2pdfs\obj\Debug\docs2pdfs.exe
-C:\Workspaces\VisualStudio\projects\docs2pdfs\obj\Debug\docs2pdfs.pdb
