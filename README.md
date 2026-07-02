@@ -1,6 +1,8 @@
 
 # docs2pdfs
 
+![ConverToPDF](images/image.png)
+
 A lightweight Windows context menu tool that converts `.docx` files to PDF with a single right-click.
 
 ## How It Works
